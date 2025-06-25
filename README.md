@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Ankita Sharma<br><br>Senior Software developer
+# Hi 👋, I'm Ankita Sharma<br><br>Senior Software Developer
 
 
 
