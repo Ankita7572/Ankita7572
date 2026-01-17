@@ -1,17 +1,16 @@
-<div align="center">
-  <img height="600" width="600"
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHE4djM2bGpsODZybXQwNDl2Y3lmemkwNzFhZ2hsbjM3ZmZ5MGprYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FvdNVjk1C7EFRhjpek/giphy.gif"  />
+<div display="flex" justify-content="space-between">
+        <div align="center">
+            <img height="400" width="400"
+              src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHE4djM2bGpsODZybXQwNDl2Y3lmemkwNzFhZ2hsbjM3ZmZ5MGprYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FvdNVjk1C7EFRhjpek/giphy.gif"               />
+             <div align="center">
+                  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ankita7572&"  />
+             </div>
+         </div>
+         <div>
+            <h1>Hi 👋, I'm Ankita Sharma<br><br>Senior Software Developer</h1></div>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ankita7572&"  />
-</div>
-
-###
-
-# Hi 👋, I'm Ankita Sharma<br><br>Senior Software Developer
 
 
 # 💻 Tech Stack:
