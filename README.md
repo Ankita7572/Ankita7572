@@ -7,10 +7,11 @@
              </div>
          </div>
          <div>
-            <h1>Hi 👋, I'm Ankita Sharma<br><br>Senior Software Developer</h1></div>
+            <h1>Hi 👋, I'm Ankita Sharma<br><br>Team Lead @ Slaab AI</h1></div>
 </div>
 
 
+  
 
 
 # 💻 Tech Stack:
